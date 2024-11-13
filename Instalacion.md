@@ -101,4 +101,4 @@ Contraseña: password
 
 Servidor: localhost
 
-![ownCloud](https://upload.wikimedia.org/wikipedia/commons/b/b6/OwnCloud2-Logo.svg)
+[ownCloud](https://upload.wikimedia.org/wikipedia/commons/b/b6/OwnCloud2-Logo.svg)
