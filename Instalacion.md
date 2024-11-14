@@ -161,3 +161,8 @@ cd /var/www/html
 sudo chmod -R 775 .
 sudo chown -R usuario:www-data .
 ```
+Tienes que escribie en el navegador "localhost/"
+usuari: usuario
+contrasenya: password
+base de dades: bbdd
+domini: localhost
