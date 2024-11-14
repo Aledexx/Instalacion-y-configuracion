@@ -83,10 +83,8 @@ Configuración de la Base de Datos y OwnCloud
      ```
 
 5. Acceso y Configuración Final de OwnCloud:
-   - Accede a tu instalación de OwnCloud a través de tu navegador utilizando la dirección IP o nombre de dominio:
-     ```bash
-     http://<tu_direccion_ip_o_nombre_de_dominio>/owncloud
-     ```
+   - Accede a tu instalación de OwnCloud a través de tu navegador utilizando: Localhost/
+     
 
    - En la página de configuración de OwnCloud, introduce los detalles de la base de datos:
      - Nombre de la base de datos: bbdd
