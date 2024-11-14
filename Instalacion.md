@@ -2,10 +2,15 @@ Instalación de los Componentes Básicos
 
 1. Abre tu sistema Linux y accede al terminal.
 
-2. Dirígete al repositorio de GitHub de "rusben". Una vez allí, accede a la sección titulada "Instal·lacions i configuració de clouds" y abre el manual de instalación de aplicaciones web.
+2. Te tienes que dirigir al repositorio de GitHub de "rusben". Una vez allí, accede a la sección titulada "Instal·lacions i configuració de clouds" y abre el manual de instalación de aplicaciones web.
 
 
 Este manual es para intstalar OwnCloud
+
+Hacer click donde pone: "Heu de baixar el .zip de ownCloud Server"
+
+###Este es el enlace para poder acceder rapidamente 
+[ZIP](https://github.com/rusben/smx-m08/blob/main/docs/installacio-aplicacions-web.md)
 
 ## Paso 1: Instalación de paquetes necesarios 
 
