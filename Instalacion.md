@@ -9,7 +9,7 @@ Este manual es para intstalar OwnCloud
 
 Hacer click donde pone: "Heu de baixar el .zip de ownCloud Server"
 
-###Este es el enlace para poder acceder rapidamente 
+## Este es el enlace para poder acceder rapidamente
 [ZIP](https://github.com/rusben/smx-m08/blob/main/docs/installacio-aplicacions-web.md)
 
 ## Paso 1: Instalación de paquetes necesarios 
